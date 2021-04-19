@@ -1,2 +1,1 @@
-# django-test-csv-fields
-Repositório para testar inserção de campos em models à partir de um arquivp CSV
+#### Repositório para testar inserção de campos em models a partir de um arquivo CSV.
