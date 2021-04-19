@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class CsvfileConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'csv_django.csvfile'
+    name = 'csv_django.csv_file'
